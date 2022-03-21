@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.1",
+  "appInfo": {
+    "name": "My app",
+    "description": "",
+    "version": "jm3vvp5p",
+    "id": "cl10kxbsr129094101s67dambivc",
+    "url": "https://app.amplication.com/cl10kxbsr129094101s67dambivc",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "test-amplication",
+      "dbPassword": "postgres",
+      "dbPort": 5432,
+      "dbUser": "postgres",
+      "appId": "cl10kxbsr129094101s67dambivc",
+      "authProvider": "Jwt"
+    }
+  }
+}
